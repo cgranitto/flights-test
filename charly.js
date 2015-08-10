@@ -1,0 +1,4 @@
+function mail() {
+  return null;
+}
+  
